@@ -4,7 +4,7 @@ I am Tovias Milliken, a Senior Technical Artist with a focus on graphics & rende
 ## Pipeline Development 
 
 ### Blender Tools
-- [Blender Studio Launcher](https://github.com/ToviasM/blender-studio-launcher) - A template to launch Blender with a "studio" environment. Allowing us to provide add-ons sourced from custom folders. 
+- [Blender Studio Launcher](https://github.com/ToviasM/blender-studio-launcher) - A template to launch Blender with a "studio" environment. 
 
 ### Maya Tools
 
