@@ -12,6 +12,7 @@ I am Tovias Milliken, a Senior Technical Artist with a focus on graphics & rende
 - [Unity Draw Mode Tool](https://github.com/ToviasM/unity-draw-mode-tool) - An extensible tool that allows us to create additional and custom draw modes inside of Unity
 
 ### Other
+- [Omniverse / Unreal AI Chat Flow](https://github.com/ToviasM/omniverse-ai-chat-flow) - A PYQT Application that streamlines the voice-> question -> AI Speech Response workflow for use within Unreal / Omniverse
 - [Atlasian](https://github.com/ToviasM/Atlasian) - A python-based texture atlasing application
 
 ## Graphics & Rendering
