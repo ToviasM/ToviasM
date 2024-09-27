@@ -4,7 +4,8 @@ I am Tovias Milliken, a Senior Technical Artist with a focus on graphics & rende
 ## Pipeline Development 
 
 ### Blender Tools
-- [Blender Studio Launcher](https://github.com/ToviasM/blender-studio-launcher) - A template to launch Blender with a "studio" environment. 
+- [Blender Studio Launcher](https://github.com/ToviasM/blender-studio-launcher) - A template to launch Blender with a "studio" environment.
+- [Blender Material Creator](https://github.com/ToviasM/blender-studio-launcher) - A tool to improve an Artists ability to create Game ready materials 
 
 ### Maya Tools
 
@@ -13,7 +14,6 @@ I am Tovias Milliken, a Senior Technical Artist with a focus on graphics & rende
 
 ### Other
 - [Omniverse / Unreal AI Chat Flow](https://github.com/ToviasM/omniverse-ai-chat-flow) - A PYQT Application that streamlines the voice-> question -> AI Speech Response workflow for use within Unreal / Omniverse
-- [Atlasian](https://github.com/ToviasM/Atlasian) - A python-based texture atlasing application
 
 ## Graphics & Rendering
 
