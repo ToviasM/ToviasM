@@ -5,7 +5,7 @@ I am Tovias Milliken, a Senior Technical Artist with a focus on graphics & rende
 
 ### Blender Tools
 - [Blender Studio Launcher](https://github.com/ToviasM/blender-studio-launcher) - A template to launch Blender with a "studio" environment.
-- [Blender Material Creator](https://github.com/ToviasM/blender-studio-launcher) - A tool to improve an Artists ability to create Game ready materials 
+- [Blender Material Creator](https://github.com/ToviasM/blender-material-creator) - A tool to improve an Artists ability to create Game ready materials 
 
 ### Maya Tools
 
