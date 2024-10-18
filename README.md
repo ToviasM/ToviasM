@@ -8,7 +8,7 @@ I am Tovias Milliken, a Senior Technical Artist with a focus on graphics & rende
 - [Blender Material Creator](https://github.com/ToviasM/blender-material-creator) - A tool to improve an Artists ability to create Game ready materials 
 
 ### Maya Tools
-- [P4 USD Asset Resolver](https://github.com/ToviasM/usd-p4-asset-resolver) - A basic P4 USD Asset Resolver for pipelines where an asset may be referenced outside of a projects directory. 
+- [P4 USD Asset Resolver](https://github.com/ToviasM/usd-p4-asset-resolver) - P4 USD Asset Resolver for pipelines where an asset needs to be referenced by its stream path 
 
 ### Unity Tools 
 - [Unity Draw Mode Tool](https://github.com/ToviasM/unity-draw-mode-tool) - An extensible tool that allows us to create additional and custom draw modes inside of Unity
