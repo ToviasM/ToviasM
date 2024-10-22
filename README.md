@@ -16,12 +16,3 @@ I am Tovias Milliken, a Senior Technical Artist with a focus on graphics & rende
 ### Other
 - [Omniverse / Unreal AI Chat Flow](https://github.com/ToviasM/omniverse-ai-chat-flow) - A PYQT Application that streamlines the voice-> question -> AI Speech Response workflow for use within Unreal / Omniverse
 
-## Graphics & Rendering
-
-### Standalone Engine
-
-### Unity
-
-### Unreal
-
-
