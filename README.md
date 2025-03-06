@@ -1,6 +1,7 @@
 I am Tovias Milliken, a Senior Technical Artist with a focus on graphics & rendering and pipeline development. I excel at bridging the gap between art and technology, ensuring seamless integration and high-quality results in a variety of projects.
 
 [Artstation](https://www.artstation.com/toviasm)
+
 [Resume](https://docs.google.com/document/d/1r8J1MT8hhJlXTSZ9ZBAuI6RkgQGlX_ZVG_fbtStsh9c/edit?usp=sharing)
 
 # My Repositories 
